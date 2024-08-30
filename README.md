@@ -1,2 +1,2 @@
-Trabalho de Conclsao de Curso - Tech Informatica - Senac RS
+Trabalho de Conclusão de Curso - Tech Informatica - Senac RS
 # Sistema-Chamado-PHP
